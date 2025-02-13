@@ -12,7 +12,8 @@ set(SOURCES
 #        switch.cpp
 #        Constructor_Initializer_List.cpp
 #        tuple.cpp
-        auto.cpp
+#        auto.cpp
+        decltype.cpp
 )
 
 
