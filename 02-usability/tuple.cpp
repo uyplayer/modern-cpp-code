@@ -15,5 +15,6 @@ std::tuple<int,double,std::string> f() {
 int main() {
     auto [x, y, z] = f();
     std::cout << x << ", " << y << ", " << z << std::endl;
+
     return 0;
 };
