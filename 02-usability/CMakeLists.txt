@@ -13,7 +13,9 @@ set(SOURCES
 #        Constructor_Initializer_List.cpp
 #        tuple.cpp
 #        auto.cpp
-        decltype.cpp
+#        decltype.cpp
+#        if-constexpr.cpp
+        for.cpp
 )
 
 
