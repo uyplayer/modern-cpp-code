@@ -11,7 +11,8 @@ set(SOURCES
 #        constexpr.cpp
 #        switch.cpp
 #        Constructor_Initializer_List.cpp
-        tuple.cpp
+#        tuple.cpp
+        auto.cpp
 )
 
 
