@@ -7,7 +7,9 @@ project(02-usability)
 
 
 set(SOURCES
-        nullptr.cpp
+#        nullptr.cpp
+#        constexpr.cpp
+        switch.cpp
 )
 
 
