@@ -18,3 +18,4 @@ set(CMAKE_TOOLCHAIN_FILE "${VCPKG_ROOT_DIR}/scripts/buildsystems/vcpkg.cmake")
 
 add_subdirectory(01-intro)
 add_subdirectory(02-usability)
+add_subdirectory(03-runtime)
