@@ -16,6 +16,7 @@ set(SOURCES
 #        decltype.cpp
 #        if-constexpr.cpp
         for.cpp
+        ../04-containers/std-array.cpp
 )
 
 
